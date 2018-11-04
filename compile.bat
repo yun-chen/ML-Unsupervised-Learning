@@ -1,0 +1,1 @@
+javac -classpath .\lib\weka.jar;.\lib\arpack_combined.jar;.\lib\core.jar;.\lib\StudentFilters.jar src\edu\gt\ml\proj3\*.java -d .\classes
